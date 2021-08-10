@@ -22,3 +22,7 @@ After this you have to move the `/target/*.war` file, which you get from running
 # Disclaimer
 The software has partially been developed within a research project funded by the German Federal Ministry of Education and Research (BMBF).
 
+
+## Contributors
+* Florian Patzer <florian.patzer@iosb.fraunhofer.de>
+* Niklas Betten
